@@ -1,27 +1,18 @@
-# lions_strong_support
-support link for lions_strong_app
+# 統一7-ELEVEn獅球迷版 App – Support Page
 
-# Privacy Policy – 統一7-ELEVEn獅球迷版 App
+Welcome to the official support page for 統一7-ELEVEn獅球迷版 App.
 
-Effective Date: November 2025
+📱 **About the App**  
+This is a free, non-commercial fan-made application created by Uni-Lions baseball fans.  
+It provides team schedules, player information, scores, news, and links to official Uni-Lions channels.  
+No personal data is collected or shared.
 
-This app was built by Uni-Lions fans for other fans.  
-It is a free, non-commercial app and does **not** collect, store, or share any personally identifiable information.
-
-## Information We Do Not Collect
-- No names, emails, or phone numbers  
-- No location or tracking data  
-- No login or account system  
-
-## App Content
-All data (such as scores, schedules, and player information) comes from publicly available sources or official Uni-Lions channels.  
-No proprietary or private data is accessed.
-
-## Third-Party Services
-The app does not include advertising or analytics SDKs that track users.  
-Any external links (e.g., YouTube, CPBL official site) open in your web browser.
-
-## Contact
-For any questions or requests, please email:  
+🧩 **Support & Contact**  
+If you encounter any issues or have suggestions, please contact:  
 lionslji355@gmail.com
 
+📄 **Privacy Policy**  
+[View our Privacy Policy]  (https://github.com/lji0428/lions_strong_support/blob/main/privacy)
+
+🆕 **Latest Updates**  
+New features and announcements will be posted here in this repository.
